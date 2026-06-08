@@ -2,7 +2,7 @@
 Operational Reporting and Projects
 
 # Projects
-Entertainment (Active)
-- Crowd Prediction (Pending)
-Budgeting (Active)
-- Resource Allocation (Pending)
+1. Entertainment (Active)
+	1. Crowd Prediction (Pending)
+2. Budgeting (Active)
+	1. Resource Allocation (Pending)
