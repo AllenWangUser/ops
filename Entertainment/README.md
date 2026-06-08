@@ -10,7 +10,7 @@ The Entertainent folder will consist of projects related to the Entertainment in
 1. Business Insights and Suggestions
 
 # Projects and Project Descriptions
-<u>Crowd Planning Analysis at Disneyland</u>
+### Crowd Planning Analysis at Disneyland
 - Data Source: 
 	- thrill-data.com to source historical wait-time data using and API
 	- California weather data
