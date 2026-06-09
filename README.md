@@ -9,12 +9,12 @@ Operational Reporting and Projects
 
 # Applications and Tools
 ### GitHub
-	- Git Bash
+	1. Git Bash
 ### Coding
-	- VS Code
-		- Python
-		- SQL
+	1. VS Code
+		1. Python
+		1. SQL
 ### Visualization
-	- Tableau Public
+	1. Tableau Public
 ### Insights
-	- Google Slides
+	1. Google Slides
