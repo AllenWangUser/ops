@@ -1,0 +1,452 @@
+Theme Park Directory Codes
+************************************************************
+Destination: Alton Towers Resort
+Destination ID: 8e6bf2ae-77ac-403d-8e10-d7cd9b6c05d7
+  -> Park: Alton Towers | Park ID: 0d8ea921-37b1-4a9a-b8ef-5b45afea847b
+--------------------------------------------------
+Destination: Attractiepark Toverland
+Destination ID: c11ad942-8f5d-4642-862c-30d8b7a414e3
+  -> Park: Attractiepark Toverland | Park ID: f4bd1a23-44f0-444b-a91c-8d24f6ec5b1f
+--------------------------------------------------
+Destination: Bellewaerde
+Destination ID: 85c5cdc5-95c3-4190-9a05-9707b634889d
+  -> Park: Bellewaerde | Park ID: 164f3ee7-5fd7-47ac-addc-40b5e3e2b144
+--------------------------------------------------
+Destination: Blackpool Pleasure Beach
+Destination ID: 66fbd0d1-14dd-4f1a-bb18-5e0b7447f07d
+  -> Park: Blackpool Pleasure Beach | Park ID: 3782a489-b9ca-428f-8bb5-4de4fc38d815
+--------------------------------------------------
+Destination: Bobbejaanland
+Destination ID: 7e95a960-dd7f-41a4-938c-4abe417c24f2
+  -> Park: Bobbejaanland | Park ID: b4c6ca41-1cf6-465b-9f65-aea736a308cb
+--------------------------------------------------
+Destination: Busch Gardens Tampa
+Destination ID: 1d92560c-474f-4425-906d-e9dd2f2da6ca
+  -> Park: Busch Gardens Tampa | Park ID: fc40c99a-be0a-42f4-a483-1e939db275c2
+--------------------------------------------------
+Destination: Busch Gardens Williamsburg
+Destination ID: 0704cf65-5c67-42f3-a054-f45e03a412cf
+  -> Park: Busch Gardens Williamsburg | Park ID: 98f634cd-c388-439c-b309-960f9475b84d
+--------------------------------------------------
+Destination: Canada's Wonderland
+Destination ID: b23d90e6-47f4-4258-8690-e74d777fca0f
+  -> Park: Canada's Wonderland | Park ID: 66f5d97a-a530-40bf-a712-a6317c96b06d
+--------------------------------------------------
+Destination: Carowinds
+Destination ID: 025c75ed-80a8-4bba-8b80-192e2ceff58c
+  -> Park: Carowinds | Park ID: 24cdcaa8-0500-4340-9725-992865eb18d6
+--------------------------------------------------
+Destination: Cedar Point
+Destination ID: ee2ec4b5-3bc3-403c-9e30-7fa607e6311e
+  -> Park: Cedar Point | Park ID: c8299e1a-0098-4677-8ead-dd0da204f8dc
+  -> Park: Cedar Point Shores | Park ID: 5d4442cf-0db1-4406-942b-a7052e743e99
+--------------------------------------------------
+Destination: Chessington World of Adventures Resort
+Destination ID: c4307928-fc3c-47df-b976-305026751727
+  -> Park: Chessington World of Adventures | Park ID: ae959d1f-9fcc-4aab-8063-71e641fa57f4
+--------------------------------------------------
+Destination: Chimelong International Ocean Tourist Resort
+Destination ID: 38ca7997-883b-4ae8-a87c-69a74967d59e
+  -> Park: Chimelong Ocean Kingdom | Park ID: 6f8764b7-172a-4fcf-8fec-10d3e44a55e4
+  -> Park: Chimelong Spaceship | Park ID: 18a2aeb2-7be5-4273-8cac-611ae5b519f6
+--------------------------------------------------
+Destination: Disneyland Paris
+Destination ID: e8d0207f-da8a-4048-bec8-117aa946b2c2
+  -> Park: Disney Adventure World | Park ID: ca888437-ebb4-4d50-aed2-d227f7096968
+  -> Park: Disneyland Park | Park ID: dae968d5-630d-4719-8b06-3d107e944401
+--------------------------------------------------
+Destination: Disneyland Resort
+Destination ID: bfc89fd6-314d-44b4-b89e-df1a89cf991e
+  -> Park: Disney California Adventure Park | Park ID: 832fcd51-ea19-4e77-85c7-75d5843b127c
+  -> Park: Disneyland Park | Park ID: 7340550b-c14d-4def-80bb-acdb51d49a66
+--------------------------------------------------
+Destination: Djurs Sommerland
+Destination ID: b55f40bd-7f8b-4cf5-b3f5-c3c2a4927832
+  -> Park: Djurs Sommerland | Park ID: 90917f88-4774-46d9-8b5c-23e5b94e8ded
+--------------------------------------------------
+Destination: Dollywood
+Destination ID: 6c3cd0cc-57b5-431b-926c-2658e8104057
+  -> Park: Dollywood | Park ID: 7502308a-de08-41a3-b997-961f8275ab3c
+--------------------------------------------------
+Destination: Dorney Park
+Destination ID: d5f3aa8d-2ef9-4436-9829-b1f6774f592b
+  -> Park: Dorney Park | Park ID: 19d7f29b-e2e7-4c95-bd12-2d4e37d14ccf
+--------------------------------------------------
+Destination: Efteling
+Destination ID: 21776b5a-1444-4924-8ab2-6c66d9219628
+  -> Park: Efteling | Park ID: 30713cf6-69a9-47c9-a505-52bb965f01be
+--------------------------------------------------
+Destination: Europa-Park
+Destination ID: 85e3b542-af91-4f8a-8d28-445868a7c8fd
+  -> Park: Europa-Park | Park ID: 639738d3-9574-4f60-ab5b-4c392901320b
+  -> Park: Rulantica | Park ID: 58392c29-d79d-49e4-9c35-0100d417d24e
+  -> Park: Traumatica | Park ID: 1e5d9bac-1ef7-4f8f-b0a3-28cc6ff860f5
+--------------------------------------------------
+Destination: Everland Resort
+Destination ID: d5487510-2e13-4eb5-9fab-9a9c11cec738
+  -> Park: Caribbean Bay | Park ID: de3955e7-e3b7-4b85-884b-2d0fb2c1d71c
+  -> Park: Everland | Park ID: b4dd937f-a79d-4b82-922f-e8ab0fbf5b5b
+--------------------------------------------------
+Destination: Flamingo Land Resort
+Destination ID: 172d77cb-6341-4b3b-8a66-e145dad8dda9
+  -> Park: Flamingo Land | Park ID: 2fa98365-3f69-4741-a1c5-1f7e3a322b23
+--------------------------------------------------
+Destination: Fuji-Q Highland
+Destination ID: a39233ea-13b5-41b0-9f96-5da787e1de33
+  -> Park: Fuji-Q Highland | Park ID: ae527507-b1d0-4d40-83ea-143d87bef989
+--------------------------------------------------
+Destination: Futuroscope
+Destination ID: 46ad6ab4-90db-4c39-b9a4-be833266c210
+  -> Park: Futuroscope | Park ID: f111046c-f6e0-48f4-a1d2-bd9de612b980
+--------------------------------------------------
+Destination: Gardaland
+Destination ID: be901819-52b2-4a98-8f31-5fecb993bcd6
+  -> Park: Gardaland | Park ID: 043211c0-76f2-4456-89f8-4001be01018d
+--------------------------------------------------
+Destination: Genting SkyWorlds
+Destination ID: 68466f8d-c4a1-4461-ac01-be55119a36c1
+  -> Park: Genting SkyWorlds Theme Park | Park ID: ea1ba5b7-c43f-45ef-890b-54f247e08902
+--------------------------------------------------
+Destination: Great America
+Destination ID: 119fce4a-9662-484f-ac3a-d62d16bdc7ab
+  -> Park: Great America | Park ID: bdf9b533-144c-4b78-aa2f-5173c5ce5e85
+--------------------------------------------------
+Destination: Guangzhou Chimelong Tourist Resort
+Destination ID: 259cf011-6195-42dd-bfdb-640969e0bfb9
+  -> Park: Chimelong Birds Park | Park ID: 7fa8dc48-1240-4c57-b576-e4eca4bf4343
+  -> Park: Chimelong Paradise | Park ID: 73436fe5-1f14-400f-bfbf-ab6766269e70
+  -> Park: Chimelong Safari Park | Park ID: a148a943-616b-41c8-b5f8-27e67f7bdf33
+  -> Park: Chimelong Water Park | Park ID: 9a268a42-4f13-4f7a-9c7d-d40a20d7a6eb
+--------------------------------------------------
+Destination: Hansa-Park
+Destination ID: c3975a6c-bd4c-4757-9a24-e67047a56cde
+  -> Park: Hansa-Park | Park ID: 5f28a518-dfb4-4650-a642-2d88c8e30d8e
+--------------------------------------------------
+Destination: Heide Park Resort
+Destination ID: 0976f1b8-5782-4cda-887f-dc1d537d8d6e
+  -> Park: Heide Park | Park ID: 66e12a41-3a09-40cd-8f55-8d335d9d7d93
+--------------------------------------------------
+Destination: Hersheypark
+Destination ID: 6e1c96c1-dafc-4c26-a3d3-1b28c888daa8
+  -> Park: Hersheypark | Park ID: 0f044655-cd94-4bb8-a8e3-c789f4eca787
+--------------------------------------------------
+Destination: Hong Kong Disneyland Parks
+Destination ID: abcfffe7-01f2-4f92-ae61-5093346f5a68
+  -> Park: Hong Kong Disneyland Park | Park ID: bd0eb47b-2f02-4d4d-90fa-cb3a68988e3b
+--------------------------------------------------
+Destination: Hurricane Harbor Concord!
+Destination ID: 1b41ac41-e8bd-4085-b39a-7ae3181efe1d
+  -> Park: Hurricane Harbor Concord! | Park ID: f93fd454-a883-4d90-8240-2aaa2c34d8ad
+--------------------------------------------------
+Destination: Hurricane Harbor Oaxtepec
+Destination ID: 86d891aa-c2e5-47ff-9da7-d8ab160c1cb5
+  -> Park: Hurricane Harbor Oaxtepec | Park ID: f27c0877-52ac-467e-844c-37ab1ca66ef3
+--------------------------------------------------
+Destination: Hurricane Harbor Phoenix!
+Destination ID: f342a6ed-ea22-43e0-a092-89996c4e8db7
+  -> Park: Hurricane Harbor Phoenix! | Park ID: e0766f31-9a00-4ba4-99e3-dfd3666542ef
+--------------------------------------------------
+Destination: Hurricane Harbor Rockford
+Destination ID: afd094fc-7675-47f3-a3d8-1674fd80fec0
+  -> Park: Hurricane Harbor Rockford | Park ID: d2b68780-b5a0-432b-b93d-6c90f407e704
+--------------------------------------------------
+Destination: Hurricane Harbor SplashTown!
+Destination ID: 24198718-af4d-4306-b34f-0f36b40af61c
+  -> Park: Hurricane Harbor SplashTown! | Park ID: 8e3fe822-7f8e-4e75-be20-9b474ec1ec70
+--------------------------------------------------
+Destination: Kennywood
+Destination ID: 1dea1b67-0d06-4ad2-9145-8fc1783fd4e8
+  -> Park: Kennywood | Park ID: 3dada5aa-0feb-4a3a-8c2d-685901f256be
+--------------------------------------------------
+Destination: Kings Dominion
+Destination ID: 71f82221-5f3e-4e2c-b09c-31c149e0dd59
+  -> Park: Kings Dominion | Park ID: 95162318-b955-4b7e-b601-a99033aa0279
+--------------------------------------------------
+Destination: Kings Island
+Destination ID: 694e1f6e-d6a2-4c86-9749-5da1a9cb8924
+  -> Park: Kings Island | Park ID: a0df8d87-7f72-4545-a58d-eb8aa76f914b
+--------------------------------------------------
+Destination: Knoebels Amusement Park
+Destination ID: 81f7c819-3e1f-4d42-b675-90100976949e
+  -> Park: Knoebels Amusement Park | Park ID: fd747bb4-393f-4dff-afdd-9ee2533a1869
+--------------------------------------------------
+Destination: Knott's Berry Farm
+Destination ID: b1444147-b93a-4f73-b12d-28f9b1f7ec7c
+  -> Park: Knott's Berry Farm | Park ID: 0a6123bb-1e8c-4b18-a2d3-2696cf2451f5
+  -> Park: Knott’s Soak City | Park ID: 153c584b-6957-4b26-9965-f2aaa10ab558
+--------------------------------------------------
+Destination: LEGOLAND Billund
+Destination ID: 97501356-1021-4bb7-9a90-2f3fc96b435d
+  -> Park: LEGOLAND Billund | Park ID: 99e7087b-951a-4322-84a8-572f26bc324d
+--------------------------------------------------
+Destination: LEGOLAND California
+Destination ID: be4e3681-7e3c-43a5-89e6-bb4863d8fe35
+  -> Park: LEGOLAND California | Park ID: 722116aa-56be-4466-8c6f-a5acbac05da2
+--------------------------------------------------
+Destination: LEGOLAND Deutschland
+Destination ID: 4809bc90-1580-4738-9a77-a713fed396a8
+  -> Park: LEGOLAND Deutschland | Park ID: e35cd439-ca3c-4234-ad92-d699995d0cba
+--------------------------------------------------
+Destination: LEGOLAND Florida
+Destination ID: 7a4adf8d-8c3f-4300-b277-19707e4f8e12
+  -> Park: LEGOLAND Florida | Park ID: bb285952-7e52-4a07-a312-d0a1ed91a9ac
+--------------------------------------------------
+Destination: LEGOLAND Japan
+Destination ID: ae0cd07c-87f3-41d9-a825-0fded65d626c
+  -> Park: LEGOLAND Japan | Park ID: 0c14c187-13f5-41ef-91b1-7ecb504239a7
+--------------------------------------------------
+Destination: LEGOLAND New York
+Destination ID: 3e1bcfe5-3b59-4d9c-a495-c7323157bae6
+  -> Park: LEGOLAND New York | Park ID: 39c46e22-9031-41ff-84d6-fcd1d0a62867
+--------------------------------------------------
+Destination: LEGOLAND Windsor
+Destination ID: 7c48a21b-221c-42f8-8339-6334c5f2fb12
+  -> Park: LEGOLAND Windsor | Park ID: a4f71074-e616-4de4-9278-72fdecbdc995
+--------------------------------------------------
+Destination: LEGOLAND® Korea
+Destination ID: cb785f25-3dac-48bb-9560-479aa9ebf942
+  -> Park: LEGOLAND® Korea | Park ID: 9a35410b-a840-4189-abf3-fccd429f4d78
+--------------------------------------------------
+Destination: La Ronde
+Destination ID: 6d6099c4-170d-4beb-85c2-73b26249eead
+  -> Park: La Ronde | Park ID: d2bef7bc-f9fc-4272-a6f1-2539d7413911
+--------------------------------------------------
+Destination: Liseberg
+Destination ID: b1387675-bb84-4eb4-aae6-af96d586c3d6
+  -> Park: Liseberg | Park ID: 93142d7e-024a-4877-9c72-f8e904a37c0c
+--------------------------------------------------
+Destination: Lotte World Adventure
+Destination ID: 126bee75-8235-4007-8fe8-48aa52e33188
+  -> Park: Lotte World Adventure | Park ID: d8a17554-14d9-44a1-915a-035bfeff884c
+--------------------------------------------------
+Destination: Michigan's Adventure
+Destination ID: 6a33b034-2e39-46ea-8808-a06b29b9b2d6
+  -> Park: Michigan's Adventure | Park ID: e9805d65-edad-4700-8942-946e6a2b4784
+--------------------------------------------------
+Destination: Mirabilandia
+Destination ID: d7d1b145-234d-4c30-91e9-e0638cc1e4d8
+  -> Park: Mirabilandia | Park ID: 8bd6937c-71da-4c56-b780-600de69ba874
+--------------------------------------------------
+Destination: Movie Park Germany
+Destination ID: 7b1d2346-363e-4a36-be23-5637fc6d508a
+  -> Park: Movie Park Germany | Park ID: bb26f3ad-3cad-4565-81b1-1ced1ed802c4
+--------------------------------------------------
+Destination: Nigloland
+Destination ID: 04eef85d-7ca5-4099-b4f3-9a0bcd90cbfc
+  -> Park: Nigloland | Park ID: 8d45b0e0-834c-4bef-afa9-a07d92e9f8f3
+--------------------------------------------------
+Destination: Paradise Country
+Destination ID: ba435567-3d0b-48f0-b1b6-8121a4427ae2
+  -> Park: Paradise Country | Park ID: 50623fbb-e6ef-43f8-9555-d31cb74e73ab
+--------------------------------------------------
+Destination: Parc Asterix
+Destination ID: 6cc48df2-f126-4f28-905d-b4c2c15765f2
+  -> Park: Parc Asterix | Park ID: 9e938687-fd99-46f3-986a-1878210378f8
+--------------------------------------------------
+Destination: Parque Warner Madrid
+Destination ID: df686841-3a46-4ac7-a1c7-8f3cac840a2b
+  -> Park: Parque Warner Madrid | Park ID: 5adbd2f7-3694-4d23-aaec-4037a056573f
+--------------------------------------------------
+Destination: Parque de Atracciones de Madrid
+Destination ID: 17058277-57f8-43f1-91c8-0af2c2fe50bc
+  -> Park: Parque de Atracciones de Madrid | Park ID: 1ea86991-e2c2-4771-8a32-c6e14c8298a9
+--------------------------------------------------
+Destination: Paultons Park
+Destination ID: bda7d2f4-6622-4f8f-80c6-a46986d73469
+  -> Park: Paultons Park | Park ID: 6535c36f-ea51-4156-824e-f304b27fb1f6
+--------------------------------------------------
+Destination: Peppa Pig Theme Park
+Destination ID: 4a2cc72e-04ef-4108-ab63-6d8416263efd
+  -> Park: Peppa Pig Theme Park | Park ID: 90d49146-8ae8-4f74-b2e6-2c91f3be6067
+--------------------------------------------------
+Destination: Phantasialand
+Destination ID: 0257ff9f-c73c-4855-b5b4-774755c4d146
+  -> Park: Phantasialand | Park ID: abb67808-61e3-49ef-996c-1b97ed64fac6
+--------------------------------------------------
+Destination: Plopsaland Belgium
+Destination ID: c0eddd5b-da82-4161-9a5f-2eb4ab5f82e7
+  -> Park: Plopsaland Belgium | Park ID: f0ea9b9c-1ccb-4860-bfe6-b5aea7e4db2b
+--------------------------------------------------
+Destination: Plopsaland Deutschland
+Destination ID: 22489737-c1f7-4ac9-b79b-b664e5efd866
+  -> Park: Plopsaland Deutschland | Park ID: 3ad67aac-0b97-4961-8aa8-c3b8d2350873
+--------------------------------------------------
+Destination: PortAventura World
+Destination ID: 498b1747-cc17-4490-aee9-a45147f0f706
+  -> Park: Caribe Aquatic Park | Park ID: 91c92c4c-e079-4488-8c99-385bc81bd5d7
+  -> Park: Ferrari Land | Park ID: d06d91b8-7702-42c3-a8af-7d0161d471bf
+  -> Park: PortAventura Park | Park ID: 32608bdc-b3fa-478e-a8c0-9dde197a4212
+--------------------------------------------------
+Destination: Qiddiya City
+Destination ID: 0307219d-b1a1-4be6-a1e0-ae8cff7a0b63
+  -> Park: Aqua Rabia Qiddiya City | Park ID: 1779db11-183d-4e04-a8be-38b4e522fcdf
+  -> Park: Six Flags Qiddiya City | Park ID: 324a4b89-e6c6-47d8-aeb4-aa8aea1fd578
+--------------------------------------------------
+Destination: Schlitterbahn GV
+Destination ID: 2b6b1661-1eef-4d93-9861-920fd11a567e
+  -> Park: Schlitterbahn GV | Park ID: b53f2a89-4541-46aa-b823-30c0d5cb5602
+--------------------------------------------------
+Destination: Schlitterbahn NB
+Destination ID: 3708aa63-8d54-4ed0-ae3a-37b726aaae46
+  -> Park: Schlitterbahn NB | Park ID: 76fbb376-fda9-4efe-bc74-6cffff98cc5e
+--------------------------------------------------
+Destination: Sea World Gold Coast
+Destination ID: 07d71a54-1409-4276-891a-569fc4d442cd
+  -> Park: Sea World | Park ID: 6a10a44e-8902-49dc-959b-f2648292b089
+--------------------------------------------------
+Destination: SeaWorld Parks and Resorts Orlando
+Destination ID: 643e837e-b244-4663-8d3a-148c26ecba9c
+  -> Park: Aquatica Orlando | Park ID: 9e2867f8-68eb-454f-b367-0ed0fd72d72a
+  -> Park: SeaWorld Orlando | Park ID: 27d64dee-d85e-48dc-ad6d-8077445cd946
+--------------------------------------------------
+Destination: SeaWorld San Antonio
+Destination ID: 211e981b-ee64-4ff9-8b06-0abf26e63874
+  -> Park: SeaWorld San Antonio | Park ID: dd0e159a-4e4b-48e5-8949-353794ef2ecb
+--------------------------------------------------
+Destination: SeaWorld San Diego
+Destination ID: 1f1f9558-4e81-48a7-aad5-9879b633802b
+  -> Park: SeaWorld San Diego | Park ID: 75122979-ddea-414d-b633-6b09042a227c
+--------------------------------------------------
+Destination: Shanghai Disney Resort
+Destination ID: 6e1464ca-1e9b-49c3-8937-c5c6f6675057
+  -> Park: Shanghai Disneyland | Park ID: ddc4357c-c148-4b36-9888-07894fe75e83
+--------------------------------------------------
+Destination: Silver Dollar City
+Destination ID: 8fba5a14-8d04-455c-acf8-eccaaa0f58d9
+  -> Park: Silver Dollar City | Park ID: d21fac4f-1099-4461-849c-0f8e0d6e85a6
+--------------------------------------------------
+Destination: Six Flags America
+Destination ID: b3c6033a-4dc2-476c-98d2-ce31c6b961a7
+  -> Park: Six Flags America | Park ID: d4c88416-3361-494d-8905-23a83e9cb091
+--------------------------------------------------
+Destination: Six Flags Darien Lake
+Destination ID: dfa64b30-f5af-444c-a7f8-3db78537a0f8
+  -> Park: Six Flags Darien Lake | Park ID: ab49b801-9b07-4cbc-9b3e-9896e538872e
+--------------------------------------------------
+Destination: Six Flags Discovery Kingdom
+Destination ID: 32fd247c-f2dd-44d6-aa2b-10c158df162f
+  -> Park: Six Flags Discovery Kingdom | Park ID: 3237a0c2-8e35-4a1c-9356-a319d5988e7c
+--------------------------------------------------
+Destination: Six Flags Fiesta Texas
+Destination ID: da6388a0-cbfe-49f9-9c63-12e1f63dda62
+  -> Park: Six Flags Fiesta Texas | Park ID: 8be1e984-1e5f-40d0-a750-ce8e4dc2e87c
+--------------------------------------------------
+Destination: Six Flags Frontier City
+Destination ID: d0f897aa-0598-4219-abbc-50b95985da01
+  -> Park: Hurricane Harbor Oklahoma City! | Park ID: 3964ae15-a1a8-41a1-aea9-23b456e2911f
+  -> Park: Six Flags Frontier City | Park ID: 589627eb-fe16-4373-a2db-08d73805fb1f
+--------------------------------------------------
+Destination: Six Flags Great Adventure
+Destination ID: 8d8e39eb-4b0a-48b9-ac67-444dd6e97519
+  -> Park: Hurricane Harbor New Jersey | Park ID: 0b04c685-0dac-4922-b5f9-d3f41a0f02e1
+  -> Park: Six Flags Great Adventure | Park ID: 556f0126-8082-4b66-aeee-1e3593fed188
+--------------------------------------------------
+Destination: Six Flags Great America
+Destination ID: 96fc6528-d143-4c6c-a2ac-01e3c1192d21
+  -> Park: Hurricane Harbor Chicago | Park ID: 044296af-10af-4868-a1f0-8fb2b7478d96
+  -> Park: Six Flags Great America | Park ID: 15805a4d-4023-4702-b9f2-3d3cab2e0c1e
+--------------------------------------------------
+Destination: Six Flags Great Escape
+Destination ID: d6e6386c-02c0-4e0e-b1f4-e9f831a1d3e6
+  -> Park: Six Flags Great Escape | Park ID: 000c724a-cd0f-41a1-b355-f764902c2b55
+--------------------------------------------------
+Destination: Six Flags Magic Mountain
+Destination ID: 17e01e63-d22f-414f-b65b-1786acbd918c
+  -> Park: Hurricane Harbor Los Angeles | Park ID: a3c83af5-27dc-4c09-8fe2-6af778161e45
+  -> Park: Six Flags Magic Mountain | Park ID: c6073ab0-83aa-4e25-8d60-12c8f25684bc
+--------------------------------------------------
+Destination: Six Flags Mexico
+Destination ID: 271f07d8-9dcc-4529-925e-8760be79ffcd
+  -> Park: Six Flags Mexico | Park ID: d67e40f9-9c02-4bfe-8ee1-b714deda9906
+--------------------------------------------------
+Destination: Six Flags New England
+Destination ID: a2cfe9e9-6734-4b9e-90c2-6427fa303e5c
+  -> Park: Six Flags New England | Park ID: d553882d-5316-4fca-9530-cc898258aec0
+--------------------------------------------------
+Destination: Six Flags Over Georgia
+Destination ID: a8ea944a-5ab7-42ed-bb02-ed08e64f125a
+  -> Park: Six Flags Over Georgia | Park ID: 0c7ab128-259a-4390-93b9-d2e0233dfc16
+--------------------------------------------------
+Destination: Six Flags Over Texas
+Destination ID: 5dd95124-888c-449d-9a65-46d7ecc8878c
+  -> Park: Hurricane Harbor Arlington | Park ID: 08e5d95c-7c73-4c65-b17a-06fede1801fb
+  -> Park: Hurricane Harbor Arlington! | Park ID: a96eb7c6-1fd3-4363-84d9-c84e23f886f1
+  -> Park: Six Flags Over Texas | Park ID: 4535960b-45fb-49fb-a38a-59cf602a0a9c
+--------------------------------------------------
+Destination: Six Flags St. Louis
+Destination ID: 314e42e5-95e7-448f-a127-01699a4fba04
+  -> Park: Six Flags St. Louis | Park ID: 815e6367-9bbe-449e-a639-a093e216188f
+--------------------------------------------------
+Destination: Six Flags White Water, Atlanta
+Destination ID: 6e425f9f-8193-46cf-a30c-8ababdaa48de
+  -> Park: Six Flags White Water, Atlanta | Park ID: db7d1c83-6356-4966-9ad1-ef11c760acd3
+--------------------------------------------------
+Destination: Thorpe Park
+Destination ID: 818f544a-38db-4255-b5db-6bf2cb39b7b3
+  -> Park: Thorpe Park | Park ID: b08d9272-d070-4580-9fcd-375270b191a7
+--------------------------------------------------
+Destination: Tokyo Disney Resort
+Destination ID: faff60df-c766-4470-8adb-dee78e813f42
+  -> Park: Tokyo DisneySea | Park ID: 67b290d5-3478-4f23-b601-2f8fb71ba803
+  -> Park: Tokyo Disneyland | Park ID: 3cc919f1-d16d-43e0-8c3f-1dd269bd1a42
+--------------------------------------------------
+Destination: Universal Beijing Resort
+Destination ID: 40ebecca-2221-4230-9814-6a00b3fbb558
+  -> Park: Universal Studios Beijing | Park ID: 68e1d8f0-ed42-4351-af25-160421e37ce0
+--------------------------------------------------
+Destination: Universal Orlando Resort
+Destination ID: 89db5d43-c434-4097-b71f-f6869f495a22
+  -> Park: Universal Epic Universe | Park ID: 12dbb85b-265f-44e6-bccf-f1faa17211fc
+  -> Park: Universal Islands of Adventure | Park ID: 267615cc-8943-4c2a-ae2c-5da728ca591f
+  -> Park: Universal Studios Florida | Park ID: eb3f4560-2383-4a36-9152-6b3e5ed6bc57
+  -> Park: Universal Volcano Bay | Park ID: fe78a026-b91b-470c-b906-9d2266b692da
+--------------------------------------------------
+Destination: Universal Studios Hollywood
+Destination ID: 9fc68f1c-3f5e-4f09-89f2-aab2cf1a0741
+  -> Park: Universal Studios Hollywood | Park ID: bc4005c5-8c7e-41d7-b349-cdddf1796427
+--------------------------------------------------
+Destination: Universal Studios Japan
+Destination ID: 93741329-da8b-45c3-9be4-6473074d92b9
+  -> Park: Universal Studios Japan | Park ID: 47f61fac-7586-41ac-ae80-61c9257cf33e
+--------------------------------------------------
+Destination: Universal Studios Singapore
+Destination ID: 0b150288-3934-49c3-a7fe-8f8103f44e71
+  -> Park: Universal Studios Singapore | Park ID: f95d7f76-2024-4510-b799-26e122d0e448
+--------------------------------------------------
+Destination: Valleyfair
+Destination ID: d4c0e0c4-18c6-4918-a505-209d839c2615
+  -> Park: Valleyfair | Park ID: 1989dca9-c8d3-43b8-b0dd-e5575f692b95
+--------------------------------------------------
+Destination: Walibi Belgium
+Destination ID: 8d8a8cc7-4523-4437-8bb6-5c87a26ba5ce
+  -> Park: Walibi Belgium | Park ID: 21897ba2-cc63-460e-99b0-fcd4ca7c18ef
+--------------------------------------------------
+Destination: Walibi Holland
+Destination ID: 9c6a0987-e519-4d6e-b011-e6c47a60641b
+  -> Park: Walibi Holland | Park ID: 18635b3e-fa23-4284-89dd-9fcd0aaa9c9c
+--------------------------------------------------
+Destination: Walibi Rhône-Alpes
+Destination ID: f9497403-adf3-4409-bd79-bb5b54000e45
+  -> Park: Walibi Rhône-Alpes | Park ID: 28aee1df-1d05-4f53-bbf5-08f7aabff3a1
+--------------------------------------------------
+Destination: Walt Disney World® Resort
+Destination ID: e957da41-3552-4cf6-b636-5babc5cbc4e5
+  -> Park: Disney's Animal Kingdom Theme Park | Park ID: 1c84a229-8862-4648-9c71-378ddd2c7693
+  -> Park: Disney's Blizzard Beach Water Park | Park ID: ead53ea5-22e5-4095-9a83-8c29300d7c63
+  -> Park: Disney's Hollywood Studios | Park ID: 288747d1-8b4f-4a64-867e-ea7c9b27bad8
+  -> Park: Disney's Typhoon Lagoon Water Park | Park ID: b070cbc5-feaa-4b87-a8c1-f94cca037a18
+  -> Park: EPCOT | Park ID: 47f90d2c-e191-4239-a466-5892ef59a88b
+  -> Park: Magic Kingdom Park | Park ID: 75ea578a-adc8-4116-a54d-dccb60765ef9
+--------------------------------------------------
+Destination: Warner Bros. Movie World
+Destination ID: 8245df87-88c2-48f0-a086-44b3e2ab90ce
+  -> Park: Warner Bros. Movie World | Park ID: 306b4975-5828-4a28-8ab0-ee7241c53f81
+--------------------------------------------------
+Destination: Wet'n'Wild
+Destination ID: 6b397295-c007-4965-83a3-ad8a3d329a0f
+  -> Park: Wet'n'Wild | Park ID: ee018a72-f99c-4a37-b436-966b94aa7aa5
+--------------------------------------------------
+Destination: Worlds of Fun
+Destination ID: c4231018-dc6f-4d8d-bfc2-7a21a6c9e9fa
+  -> Park: Worlds of Fun | Park ID: bb731eae-7bd3-4713-bd7b-89d79b031743
+--------------------------------------------------
