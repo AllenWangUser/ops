@@ -12,8 +12,8 @@ The Entertainent folder will consist of projects related to the Entertainment in
 # Projects and Project Descriptions
 ### Crowd Planning Analysis at Disneyland
 - Data Source: 
-	- thrill-data.com to source historical wait-time data using and API
-	- California weather data
+	- thrill-data.com to source historical wait-time data for DLR and DCA using and API
+	- openweathermap.org to source Anaheim, California weather data
 	- Local school district holiday calendars
 - ETL Process: SQL
 - Deliverable: Tableau Dashboard
