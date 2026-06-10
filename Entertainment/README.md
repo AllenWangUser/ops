@@ -15,6 +15,10 @@ The Entertainent folder will consist of projects related to the Entertainment in
 	- thrill-data.com to source historical wait-time data for DLR and DCA using and API
 	- openweathermap.org to source Anaheim, California weather data
 	- Local school district holiday calendars
+	- disney.go.com for resort
+		- Park ticket information
+		- Magic Key blackout dates
+		- Events and schedules
 - ETL Process: SQL
 - Deliverable: Tableau Dashboard
 - Insights: PowerPoint
