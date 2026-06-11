@@ -1,3 +1,5 @@
+**Addresses Issue** #
+
 **Description**
 <!-- Add description of the purpose of the commit. -->
 
@@ -7,6 +9,5 @@
 **Review Notes**
 - [ ] Self Review
 - [ ] Visual Inspection passed
-# - [ ] 
-# - [ ] 
-# - [ ]
+- [ ] Code runs without errors
+- [ ] Output is as expected
